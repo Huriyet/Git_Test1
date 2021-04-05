@@ -6,7 +6,7 @@ public class Git_Test1 {
 
 		System.out.println("Git den merhaba");
 
-		
+		System.out.println("GitHub dan merhaba");
 		
 	}
 
